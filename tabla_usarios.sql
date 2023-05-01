@@ -5,5 +5,5 @@ CREATE TABLE `usuario` (
     `email` VARCHAR(20));
     
 INSERT INTO usuario (nombre, apellido, email, id)
-VALUES ('Antonio', 'Garcia', 'antoniogarcia@gmail.com', '1')
+VALUES ('Antonio', 'Garcia', 'antoniogarcia@gmail.com', '1');
     
